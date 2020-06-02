@@ -1,4 +1,4 @@
-# my-applications-list
+# My applications list
 A list of the all the applications I am currently using, have used or want to use.
 
 * [Dunst](https://dunst-project.org/) - Lightweight notification daemon. 
