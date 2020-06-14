@@ -1,5 +1,5 @@
 # My applications list
-A list of the all the applications I am currently using, have used or want to use.
+A list of all the applications I am currently using, have used or want to use.
 
 * [Dunst](https://dunst-project.org/) - Lightweight notification daemon. 
 * [Ghostwriter](https://wereturtle.github.io/ghostwriter/) - A distraction-free Markdown editor for Windows and Linux.
